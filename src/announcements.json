@@ -1,0 +1,8 @@
+[
+  { "area": "Platform", "name": "Stacked pull requests", "summary": "Break a big change into a chain of small, linked PRs; merge the whole stack in one click." },
+  { "area": "Platform", "name": "Pull request inbox", "summary": "One place to scan open PRs, their status, and what needs you next." },
+  { "area": "Copilot", "name": "Copilot Fusion", "summary": "Pick Standard, High or Max effort; Copilot picks or combines models." },
+  { "area": "Copilot", "name": "Copilot Automations", "summary": "Reusable Copilot tasks that run on demand, on a schedule, or from triggers." },
+  { "area": "Security", "name": "AI Scan", "summary": "On-demand whole-repo scan; hand findings to Copilot to fix." },
+  { "area": "Security", "name": "Package firewall", "summary": "Blocks malicious npm packages before agents, runners or IDEs install them." }
+]
