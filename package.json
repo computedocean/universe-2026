@@ -1,0 +1,11 @@
+{
+  "name": "universe-2026",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
